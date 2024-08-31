@@ -1,0 +1,26 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Node.js cli calculator",
+  "author": "Maksim Khitrov <khitrov.maks@gmail.com>",
+  "private": true,
+  "keywords": [
+    "node.js",
+    "cli",
+    "calculator"
+  ],
+  "homepage": "https://github.com/KhitrovMaksim/calculator#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhitrovMaksim/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KhitrovMaksim/calculator/issues"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "node calculator.spec.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
